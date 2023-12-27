@@ -1,0 +1,1 @@
+var json_estacion_cv1_2 = {"type":"FeatureCollection","name":"estacion_cv1_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"estacion":"estacion_cv1","lat":18.90586,"long":-99.17712},"geometry":{"type":"Point","coordinates":[-99.17712319,18.90586118]}}]}
